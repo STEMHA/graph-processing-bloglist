@@ -1,2 +1,4 @@
 # graph-processing-bloglist
-图计算相关博客整理
+
+
+Graph Processing Collection http://blog.inf.ed.ac.uk/graphprocs/2014/11/  //爱丁堡大学
