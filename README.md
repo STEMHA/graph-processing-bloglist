@@ -1,13 +1,14 @@
 # graph-processing-bloglist
 
 ## blog
-- Graph Processing Collection http://blog.inf.ed.ac.uk/graphprocs/2014/11/  //爱丁堡大学
+- Graph Processing Collection 爱丁堡大学 http://blog.inf.ed.ac.uk/graphprocs/2014/11/  
 
 
 ## homepage
-- Xiaowei Zhu 朱晓伟 http://pacman.cs.tsinghua.edu.cn/~zxw/
-
-
+- Xiaowei Zhu 朱晓伟 清华大学 http://pacman.cs.tsinghua.edu.cn/~zxw/
+- Mingzhe Zhang 张明喆 NVM 中科院计算所 https://mingzhe-zhang.github.io/
+- PACMAN Group http://pacman.cs.tsinghua.edu.cn/
+- 陈文光 清华大学 http://pacman.cs.tsinghua.edu.cn/~cwg/
 
 
 
