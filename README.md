@@ -1,8 +1,11 @@
 # graph-processing-bloglist
 
-
+## blog
 - Graph Processing Collection http://blog.inf.ed.ac.uk/graphprocs/2014/11/  //爱丁堡大学
 
+
+## homepage
+- Xiaowei Zhu 朱晓伟 http://pacman.cs.tsinghua.edu.cn/~zxw/
 
 
 
