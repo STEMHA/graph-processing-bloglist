@@ -9,6 +9,7 @@
 - Mingzhe Zhang 张明喆 NVM 中科院计算所 https://mingzhe-zhang.github.io/
 - PACMAN Group http://pacman.cs.tsinghua.edu.cn/
 - 陈文光 清华大学 http://pacman.cs.tsinghua.edu.cn/~cwg/
+-  Eiko Yoneki 剑桥大学 https://www.cl.cam.ac.uk/~ey204/
 
 
 
